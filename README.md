@@ -1,4 +1,4 @@
-# HeyHo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# HeyHo <img src="https://github.com/nilsertle/nilsertle/blob/main/src/peace.png" width="30px">
 
 # Stats
 
