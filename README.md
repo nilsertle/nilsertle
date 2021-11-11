@@ -1,7 +1,6 @@
-# HeyHo <img src="https://github.com/nilsertle/nilsertle/blob/main/src/peace(2).png" width="30px">
+# What's up? <img src="https://github.com/nilsertle/nilsertle/blob/main/src/peace(2).png" width="30px"> I am Nils 
 
-# Stats
-![GitHub followers](https://img.shields.io/github/followers/nilsertle?color=e08832&style=for-the-badge)
+# <img src="https://github.com/nilsertle/nilsertle/blob/main/src/peace(2).png" width="30px"> Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilsertle&theme=github_dark&show_icons=true)
 
