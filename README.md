@@ -8,8 +8,7 @@
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/linkedin.svg" alt="LinkedIn Logo" width="30"/>](https://www.linkedin.com/in/nils-ertle-27987b209/)
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/gmail.svg" alt="Gmail Logo" width="30"/>](nilssertle@gmail.com)
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/gitlab.svg" alt="Gmail Logo" width="30"/>](https://gitlab.com/nilsertle)
-[<img src="https://github.com/nilsertle/nilsertle/blob/main/src/gitlab.svg" alt="Gmail Logo" width="30"/>](https://gitlab.com/nilsertle)
-  https://twitter.com/_n_i__l_s_
+[<img src="https://github.com/nilsertle/nilsertle/blob/main/src/twitter-3.svg" alt="Gmail Logo" width="30"/>](https://twitter.com/_n_i__l_s_)
   
 </h1>
 
