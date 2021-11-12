@@ -4,6 +4,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nilsertle.visitor-badge&right_color=blue) 
 [![Repos Badge](https://badges.pufler.dev/repos/nilsertle)](https://github.com/nilsertle?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/nilsertle.svg?style=flat&label=Follow&maxAge=2592000)](https://github.com/nilsertle?tab=followers)
 
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/linkedin.svg" alt="LinkedIn Logo" width="30"/>](https://www.linkedin.com/in/nils-ertle-27987b209/)
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/gmail.svg" alt="Gmail Logo" width="30"/>](nilssertle@gmail.com)
