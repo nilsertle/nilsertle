@@ -12,12 +12,12 @@
   
 </h1>
 
-Who am I?
+I am Nils, 19 years old and currently enrolled in a Bachloers Degree in Embedded Systems Engineering. I love coding, solving algorythms and creating stunning results. When I am not programming in studies I have got plenty of awesome projects in my freetime. 
 
 ---
 # <img src="https://github.com/nilsertle/nilsertle/blob/main/src/muscle.png" width="30px"> Skills
 
-## Programming Languages, Frameworks and Libraries
+### Programming Languages, Frameworks and Libraries
 
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/python-5(1).svg" alt="Python Logo" width="50" height="50"/>](https://www.python.org/)
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/java-4.svg" alt="Java Logo" width="50" height="50"/>](https://www.java.com/de/)
@@ -31,15 +31,18 @@ Who am I?
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/react-2.svg" alt="React Logo" width="50" height="50"/>](https://reactjs.org/)
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/numpy-1.svg" alt="NumPy Logo" width="50" height="50"/>](https://numpy.org/)
 
-## Professional Tools
+### Professional Tools
 
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/git-icon.svg" alt="Git Logo" width="50" height="50"/>](https://git-scm.com/)
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/linux-tux.svg" alt="Linux Logo" width="50" height="50"/>](https://www.linux.org/)
 [<img src="https://github.com/nilsertle/nilsertle/blob/main/src/postman.svg" alt="Postman Logo" width="50" height="50"/>](https://www.postman.com/)
+[<img src="https://github.com/nilsertle/nilsertle/blob/main/src/MySQL-Logo.wine.svg" alt="MySql Logo" width="50" height="50"/>](https://www.mysql.com/de/)
+[<img src="https://github.com/nilsertle/nilsertle/blob/main/src/gunicorn.svg" alt="Gunicorn Logo" width="50" height="50"/>](https://gunicorn.org/)
+[<img src="https://github.com/nilsertle/nilsertle/blob/main/src/docker-3.svg" alt="Docker Logo" width="50" height="50"/>](https://www.docker.com/)
+[<img src="https://github.com/nilsertle/nilsertle/blob/main/src/nginx-1.svg" alt="Nginx Logo" width="50" height="50"/>](https://www.nginx.com/)
 
 ---
 # <img src="https://github.com/nilsertle/nilsertle/blob/main/src/statistics.png" width="30px"> Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilsertle&theme=github_dark&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilsertle&hide=javascript,html)
