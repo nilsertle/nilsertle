@@ -1,5 +1,5 @@
-# What's up? <img src="https://github.com/nilsertle/nilsertle/blob/main/src/peace(2).png" width="30px"> I am Nils <img src="https://github.com/nilsertle/nilsertle/blob/main/src/joyful.png" width="30px">
-<img src="https://github.com/nilsertle/nilsertle/blob/main/src/banner.png" width="100px">
+<img src="https://github.com/nilsertle/nilsertle/blob/main/src/banner2.png">
+
 ---
 # Skills
 
