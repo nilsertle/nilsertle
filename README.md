@@ -1,7 +1,7 @@
 <img src="https://github.com/nilsertle/nilsertle/blob/main/src/banner2.png">
 
 ---
-# Skills
+# <img src="https://github.com/nilsertle/nilsertle/blob/main/src/muscle.png" width="30px"> Skills
 
 ---
 # <img src="https://github.com/nilsertle/nilsertle/blob/main/src/statistics.png" width="30px"> Stats
