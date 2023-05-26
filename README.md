@@ -36,5 +36,5 @@ I am Nils, 20 years old and currently enrolled in a Bachloers Degree in Embedded
 
 ---
 # Projects
-https://github.com/nilsertle/create-ai-tshirt
+https://github.com/nilsertle/create-ai-tshirt </br>
 https://github.com/nilsertle/locations
