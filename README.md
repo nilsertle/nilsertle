@@ -6,7 +6,7 @@
    
 </h1>
 
-I am Nils, 20 years old and currently enrolled in a Bachloers Degree in Embedded Systems Engineering. I love coding, solving algorithms and creating stunning results. When I am not programming in studies I have got plenty of awesome projects in my freetime. 
+I am Nils, 21 years old and just finished my Bachloers Degree in Embedded Systems Engineering. I love coding, solving algorithms and creating stunning results.
 
 ---
 # <img src="https://github.com/nilsertle/nilsertle/blob/main/src/muscle.png" width="30px"> Skills
